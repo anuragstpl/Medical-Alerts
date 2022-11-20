@@ -1,0 +1,83 @@
+E:\Live Projects\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.exe
+E:\Live Projects\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.pdb
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.Properties.Resources.resources
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.csproj.GenerateResource.Cache
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.exe
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.pdb
+E:\Live Projects\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.exe.config
+E:\Live Projects\MediAlert\MediAlert\MediAlert\bin\Debug\log4net.dll
+E:\Live Projects\MediAlert\MediAlert\MediAlert\bin\Debug\log4net.xml
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.Form1.resources
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.ServerMaster.resources
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.SplashScreen.resources
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.EmailConfiguration.resources
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.AlertManagement.resources
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.AboutITDelivery.resources
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.ClientManagement.resources
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.IPSelector.resources
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.csprojResolveAssemblyReference.cache
+E:\Live Projects\MediAlert\MediAlert\MediAlert\bin\Debug\MediEL.dll
+E:\Live Projects\MediAlert\MediAlert\MediAlert\bin\Debug\MediEL.pdb
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.LogManager.resources
+E:\Live Projects\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.exe.manifest
+E:\Live Projects\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.application
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.exe.manifest
+E:\Live Projects\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.application
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.exe.config
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.exe.manifest
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.application
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.exe
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.pdb
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\log4net.dll
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediEL.dll
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediEL.pdb
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\log4net.xml
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.csprojResolveAssemblyReference.cache
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.AboutITDelivery.resources
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.AlertManagement.resources
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.ClientManagement.resources
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.EmailConfiguration.resources
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.Form1.resources
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.IPSelector.resources
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.LogManager.resources
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.Properties.Resources.resources
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.ServerMaster.resources
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.SplashScreen.resources
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.csproj.GenerateResource.Cache
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.exe.manifest
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.application
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.exe
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.pdb
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediHelper.dll
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediHelper.pdb
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\SecureApp.dll
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\SecureApp.pdb
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.exe.config
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.exe
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.pdb
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.exe.manifest
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.application
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.exe
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediAlert.pdb
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\log4net.dll
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediEL.dll
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediHelper.dll
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\SecureApp.dll
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediEL.pdb
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\MediHelper.pdb
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\SecureApp.pdb
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\bin\Debug\log4net.xml
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.csprojResolveAssemblyReference.cache
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.AboutITDelivery.resources
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.AlertManagement.resources
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.ClientManagement.resources
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.EmailConfiguration.resources
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.Form1.resources
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.IPSelector.resources
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.LogManager.resources
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.Properties.Resources.resources
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.ServerMaster.resources
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.SplashScreen.resources
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.csproj.GenerateResource.Cache
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.exe.manifest
+E:\Live Projects\MediAlert\9-10-2016\MediAlert\MediAlert\MediAlert\MediAlert\obj\Debug\MediAlert.application

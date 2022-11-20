@@ -1,0 +1,7 @@
+E:\Live Projects\MediAlert\MediAlert\MediLogs\bin\Debug\MediLogs.dll.config
+E:\Live Projects\MediAlert\MediAlert\MediLogs\bin\Debug\MediLogs.dll
+E:\Live Projects\MediAlert\MediAlert\MediLogs\bin\Debug\MediLogs.pdb
+E:\Live Projects\MediAlert\MediAlert\MediLogs\bin\Debug\log4net.dll
+E:\Live Projects\MediAlert\MediAlert\MediLogs\bin\Debug\log4net.xml
+E:\Live Projects\MediAlert\MediAlert\MediLogs\obj\Debug\MediLogs.dll
+E:\Live Projects\MediAlert\MediAlert\MediLogs\obj\Debug\MediLogs.pdb

@@ -1,0 +1,17 @@
+E:\Live Projects\MediAlert\MediAlert\MediAlertClient\bin\Debug\MediAlertClient.exe
+E:\Live Projects\MediAlert\MediAlert\MediAlertClient\bin\Debug\MediAlertClient.pdb
+E:\Live Projects\MediAlert\MediAlert\MediAlertClient\obj\Debug\MediAlertClient.Form1.resources
+E:\Live Projects\MediAlert\MediAlert\MediAlertClient\obj\Debug\MediAlertClient.Properties.Resources.resources
+E:\Live Projects\MediAlert\MediAlert\MediAlertClient\obj\Debug\MediAlertClient.csproj.GenerateResource.Cache
+E:\Live Projects\MediAlert\MediAlert\MediAlertClient\obj\Debug\MediAlertClient.exe
+E:\Live Projects\MediAlert\MediAlert\MediAlertClient\obj\Debug\MediAlertClient.pdb
+E:\Live Projects\MediAlert\MediAlert\MediAlertClient\obj\Debug\MediAlertClient.LogManagement.resources
+E:\Live Projects\MediAlert\MediAlert\MediAlertClient\obj\Debug\MediAlertClient.csprojResolveAssemblyReference.cache
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlertClient\bin\Debug\MediAlertClient.exe
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlertClient\bin\Debug\MediAlertClient.pdb
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlertClient\obj\Debug\MediAlertClient.Form1.resources
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlertClient\obj\Debug\MediAlertClient.LogManagement.resources
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlertClient\obj\Debug\MediAlertClient.Properties.Resources.resources
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlertClient\obj\Debug\MediAlertClient.csproj.GenerateResource.Cache
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlertClient\obj\Debug\MediAlertClient.exe
+C:\Users\AnuragPC\Downloads\MediAlert\MediAlert\MediAlert\MediAlertClient\obj\Debug\MediAlertClient.pdb
